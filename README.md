@@ -37,7 +37,7 @@ The project includes a simple database schema with tables for:
 Getting Started
 
 **To run the project:**
-Clone the repository: Use git clone [repository URL] to clone the repository to your local machine.
+Clone the repository: Use **git clone https://github.com/beingfastian/chemical-trade-pos.git** to clone the repository to your local machine.
 
 Open the solution in Visual Studio: Open the solution file in Visual Studio.
 
